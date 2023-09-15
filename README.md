@@ -1,6 +1,6 @@
 # Good Chef
 
-Good Chef is a Ruby on Rails application designed to connect users with private chefs for unique culinary experiences. Developed as a collaborative project by a team of four, it incorporates robust features such as user authentication, image uploads, and geolocation mapping.
+[Good Chef](https://good-chef-3bb711b1c325.herokuapp.com/) is a Ruby on Rails application designed to connect users with private chefs for unique culinary experiences. Developed as a collaborative project by a team of four, it incorporates robust features such as user authentication, image uploads, and geolocation mapping.
 
 ## Table of Contents
 
