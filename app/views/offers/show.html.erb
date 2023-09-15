@@ -1,4 +1,4 @@
-<div class="banner" style="background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url(<%= @offer.img %>);">
+<div class="banner" style="background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url(<%= @offer.photos.attached? ? cl_image_path(@offer.photos.first.key) : @offer.img %>);">
 
     <div class="d-flex align-items-center flex-column">
       <h1><%= @offer.title %></h1>
