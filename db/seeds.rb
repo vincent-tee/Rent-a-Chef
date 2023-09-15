@@ -21,7 +21,7 @@ Offer.create(
   cuisine: "Japanese",
   address: "St Kilda Road, Melbourne, Australia",
   description: "Chef Maya invites you to partake in an enchanting culinary voyage where flavours are the protagonists and each dish carries a chapter of its own.\nJoin Chef Maya on a journey of taste and tradition as she crafts a symphony of spices that tell tales of her culinary explorations.",
-  img: "/assets/japanese2.jpg",
+  img: "https://res.cloudinary.com/dm0lyxkux/image/asset/v1694744340/japanese2-0b881d524ea38f0f79204080cf3ac793.jpg",
   user: user3
 )
 
@@ -31,7 +31,7 @@ Offer.create(
   cuisine: "Modern Australian",
   address: "Richmond, Melbourne, Australia",
   description: "Discover the essence of Modern Australian dining at The Botanic Plate, located in the culinary heart of Melbourne. Our menu puts the spotlight on locally sourced ingredients, transforming them into inventive, mouth-watering dishes. Whether you're looking for a casual brunch or an elegant dinner, our inviting ambiance and a thoughtfully curated selection of wines promise an unforgettable experience you'll want to revisit.",
-  img: "/assets/australian.jpg",
+  img: "https://res.cloudinary.com/dm0lyxkux/image/asset/v1694744316/australian-5b52acc374d9aaa83dcdaad19eb06bf2.jpg",
   user: user3
 )
 
@@ -47,7 +47,7 @@ Offer.create(
      From the briny scent of seaweed to the delicate sweetness of seafood, each bite embodies the essence of the ocean.
       Join us in savoring the maritime tales that Chef Finn masterfully weaves, as he unveils a culinary symphony of flavours
        that are as captivating as the open sea itself.",
-  img: "/assets/seafood.jpg",
+  img: "https://res.cloudinary.com/dm0lyxkux/image/asset/v1694744355/seafood-890acd6ff04f7290b4250d994b8a450d.jpg",
   user: user3
 )
 Offer.create(
@@ -56,7 +56,7 @@ Offer.create(
   cuisine: "Greek",
   address: "Heidelberg, Victoria, Australia",
   description: "Chef Lily offers a farm-to-fork experience that captures the essence of Greek cuisine. Enjoy freshly harvested herbs and vegetables in a variety of traditional dishes, all crafted to bring you an authentic taste of Greece.",
-  img: "/assets/greek.jpg",
+  img: "https://res.cloudinary.com/dm0lyxkux/image/asset/v1694744329/greek-40fdae92bc568c2eaeb0d2df5ba613c5.jpg",
   user: user3
 )
 Offer.create(
@@ -65,7 +65,7 @@ Offer.create(
   cuisine: "Japanese",
   address: "Toorak, Victoria, Australia",
   description: "Chef Hiroshi fuses traditional Japanese culinary arts with modern flair. Explore the unique fifth taste, Umami, as you are guided through a handpicked selection of dishes that exemplify the art of Asian Fusion.",
-  img: "/assets/japanese.jpg",
+  img: "https://res.cloudinary.com/dm0lyxkux/image/asset/v1694744336/japanese-fafab5d74cb7f10f8ca2bef104339adc.jpg",
   user: user3
 )
 Offer.create(
@@ -74,7 +74,7 @@ Offer.create(
   cuisine: "Italian",
   address: "Parkville, Victoria, Australia",
   description: "Chef Hiroshi fuses traditional Japanese culinary arts with modern flair. Explore the unique fifth taste, Umami, as you are guided through a handpicked selection of dishes that exemplify the art of Asian Fusion.",
-  img: "/assets/Italian.jpg",
+  img: "https://res.cloudinary.com/dm0lyxkux/image/asset/v1694744304/Italian-33dac0f69951a0759eb820b184dbf379.jpg",
   user: user3
 )
 Offer.create(
@@ -83,7 +83,7 @@ Offer.create(
   cuisine: "Middle Eastern",
   address: "Bundoora, Victoria, Australia",
   description: "Experience the Middle East through Leo's Gastronomia. Chef Leo crafts a menu that transcends borders, showcasing the flavours and spices that define this rich culinary landscape. It's not just a meal, it's a flavourful expedition.",
-  img: "/assets/middle_eastern.jpg",
+  img: "https://res.cloudinary.com/dm0lyxkux/image/asset/v1694744351/middle_eastern-b64bf1bf010b22eb825244f289e745a1.jpg",
   user: user3
 )
 Offer.create(
@@ -92,7 +92,7 @@ Offer.create(
   cuisine: "Malaysian",
   address: "Preston, Victoria, Australia",
   description: "Step into Chef Jin's kitchen for a journey through Malaysia's aromatic spice trails. From tangy lemongrass to fiery chili, each dish is a testament to the country’s rich culinary heritage and the chef's masterful execution.",
-  img: "/assets/malayspice.jpg",
+  img: "https://res.cloudinary.com/dm0lyxkux/image/asset/v1694744348/malayspice-72bb72dfccd9f7addf6d8150dc64ff06.jpg",
   user: user3
 )
 
