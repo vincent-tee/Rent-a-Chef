@@ -20,7 +20,6 @@
 3. Install dependencies: `bundle install`
 4. Set up the database: `rails db:create db:migrate`
 5. Start the server: `rails s`
-=======
 
 ### Environment Variables
 Create a `.env` file and populate it with the following:
