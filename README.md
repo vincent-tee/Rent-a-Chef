@@ -1,6 +1,7 @@
 # Good Chef
 
 [Good Chef](https://good-chef-3bb711b1c325.herokuapp.com/) is a Ruby on Rails application designed to connect users with private chefs for unique culinary experiences. Developed as a collaborative project by a team of four, it incorporates robust features such as user authentication, image uploads, and geolocation mapping.
+![Screenshot](https://github.com/vincent-tee/rent-a-chef/assets/98565950/c83c842e-b6d1-49fe-8c56-4302f3072242)
 
 ## Table of Contents
 
@@ -65,5 +66,5 @@ MIT License. See [LICENSE.md](LICENSE.md) for details.
 
 ## Contact
 
-- GitHub: [Good Chef GitHub Repo](https://github.com/yourusername/good-chef)
+- GitHub: [Good Chef GitHub Repo](https://github.com/vincent-tee/rent-a-chef)
 - LinkedIn: [Vincent Tee's LinkedIn](https://www.linkedin.com/in/vincent-tee-aus/)
